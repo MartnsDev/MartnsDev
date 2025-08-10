@@ -51,7 +51,7 @@
 <hr>
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn, confira meu TikTok, Instagram, acesse meu portfólio ou me chame no WhatsApp! 💌✨
+  Vamos nos conectar?
 </p>
 
 <p align="left">
