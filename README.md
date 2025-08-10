@@ -32,7 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=spring,express,tailwind,nodemailer,jpa,jpql)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,canva)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,insomnia)](https://skillicons.dev)
 
 
 
