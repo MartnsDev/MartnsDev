@@ -11,8 +11,6 @@
 ## Sobre mim
 
 - Estudante em Desenvolvimento de Sistemas
-- Desenvolvedor web e criação de sistemas fullstack
-- Atuação em projetos como, landing pages e design para e-commerce
 - 2x Medalhista de Prata na Olimpíada de Matemática (OMASP) 1x Medalhista (OBMEP)
 - Aluno Monitor em Português, apoiando colegas com reforço escolar
 
