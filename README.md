@@ -30,9 +30,6 @@
 
 ### 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=spring,express,tailwind)](https://skillicons.dev)  
-![Lombok](assets/icons/lombok.svg)  
-![Nodemailer](assets/icons/nodemailer.svg)  
-![JPA](assets/icons/jpa.svg)  
 **Outros:** Lombok, JPA, JPQL, Nodemailer
 
 ### 🛠️ Ferramentas de desenvolvimento
