@@ -29,10 +29,14 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,mysql,postgresql)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=spring,express,tailwind,nodemailer,jpa,jpql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,express,tailwind,nodemailer,jpa,jpql,lombok)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,insomnia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,insomnia,tomcat)](https://skillicons.dev)
+
+### ⚙️ Outras ferramentas
+- Spring DevTools para recarga automática durante o desenvolvimento
+
 
 
 
