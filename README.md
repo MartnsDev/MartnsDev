@@ -3,7 +3,7 @@
 <p align="left">
  Desenvolvedor Backend focado em construir sistemas escaláveis e eficientes com <strong>Java<strong> e <strong>Spring Boot<strong>, além de desenvolver aplicações web completas.
   <br>
-  <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1PUaRMP-870MPbz_A2Nucaf5hu0kHgcYC/view?usp=sharing" target="_blank" rel="noopener noreferrer">Clique aqui para visualizar</a>
+  <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1kTN8UHQajSkaluWsP-ygOiLeNXNXJnCs/view?usp=sharing" target="_blank" rel="noopener noreferrer">Clique aqui para visualizar</a>
 </p>
 
 
