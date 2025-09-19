@@ -48,14 +48,8 @@
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
   
  <!-- Outros -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/MartnsDev/MartnsDev/main/imagens/insomnia.svg" alt="Insomnia" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/imagens/tomcat-original.svg" alt="Apache Tomcat" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/imagens/spring.svg" alt="Spring DevTools" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/imagens/lombok-color.svg" alt="Lombok" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/imagens/hibernate-icon.svg" alt="JPA / Hibernate / JPQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/imagens/nodemailer-icon.svg" alt="Nodemailer" width="50" height="50"/>
-</p>
+**Outros:** Insomnia, Apache Tomcat, Spring DevTools, Lombok, JPA / Hibernate / JPQL, Nodemailer, Springdoc, JWT, Bean Validation, Exception Handling, Swagger
+
 
 
 
