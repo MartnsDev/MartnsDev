@@ -27,34 +27,14 @@
 ## 💻 Tecnologias e Ferramentas
 
 <p align="left">
-  <!-- Linguagens e Bancos -->
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/>
-  
-  <!-- Frameworks e Bibliotecas -->
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="50" height="50"/>
-  
-  <!-- Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
-  
-  <!-- Outros -->
+  <!-- exemplos com logos coloridos originais quando achei -->
+  <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/master/png/256/spring-boot.png" alt="Spring Boot" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/insomnia.svg" alt="Insomnia" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Apache Tomcat" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg" alt="Spring DevTools" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lombok.svg" alt="Lombok" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="JPA / Hibernate / JPQL" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/nodemailer/nodemailer-icon.svg" alt="Nodemailer" width="50" height="50"/>
+  <!-- para Lombok e Nodemailer, usar versões oficiais se achar, senão texto simples -->
+  <img src="URL_DA_IMAGEM_OFICIAL_DO_LOMBOK" alt="Lombok" width="50" height="50"/>
+  <img src="URL_DA_IMAGEM_OFICIAL_DO_NODEMAILER" alt="Nodemailer" width="50" height="50"/>
 </p>
+
 
 
 
