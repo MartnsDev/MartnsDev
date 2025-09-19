@@ -9,9 +9,9 @@
 
 ## Sobre mim
 
-- Estudante em Desenvolvimento de Sistemas
-- 2x Medalhista de Prata na Olimpíada de Matemática (OMASP) 1x Medalhista (OBMEP)
-- Aluno Monitor em Português, apoiando colegas com reforço escolar
+- Estudante e entusiasta de Desenvolvimento de Sistemas  
+- 2x Medalhista de Prata na Olimpíada de Matemática (OMASP) e 1x Medalhista na OBMEP  
+- Aluno Monitor de Português, auxiliando colegas com reforço escolar
 
 ---
 <picture>
