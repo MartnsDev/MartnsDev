@@ -24,8 +24,6 @@
 
 ## Tecnologias e linguagens / Frameworks e bibliotecas 💻
 
-## 💻 Tecnologias e Ferramentas
-
 <p align="left">
   <!-- Linguagens e Bancos -->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
