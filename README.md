@@ -22,11 +22,23 @@
 
 ---
 
-## Tecnologias e linguagens/Frameworks e bibliotecas 💻
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,mysql,postgresql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=spring,express,tailwind)](https://skillicons.dev)   
+## Tecnologias e linguagens / Frameworks e bibliotecas 💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,mysql,postgresql)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=spring,express,tailwind)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)  
-**Outros:** Insomnia, Apache Tomcat, Spring DevTools, Lombok, JPA, JPQL, Nodemailer
+
+### Outros
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/insomnia.svg" alt="Insomnia" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Apache Tomcat" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg" alt="Spring DevTools" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lombok.svg" alt="Lombok" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hibernate.svg" alt="JPA / Hibernate" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hibernate.svg" alt="JPQL" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodemailer.svg" alt="Nodemailer" width="40" height="40" style="margin-right:10px;"/>
+</p>
+
 
 
 
