@@ -49,24 +49,14 @@
   
  <!-- Outros -->
 <p align="left">
-  <!-- Insomnia -->
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" width="50" height="50"/>
-
-  <!-- Apache Tomcat -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Apache Tomcat" width="50" height="50"/>
-
-  <!-- Spring Boot / DevTools -->
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring DevTools" width="50" height="50"/>
-
-  <!-- Lombok (não tem oficial colorido, alternativa estilizada) -->
-  <img src="https://cdn.worldvectorlogo.com/logos/lombok.svg" alt="Lombok" width="50" height="50"/>
-
-  <!-- Hibernate (JPA/JPQL) -->
-  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="JPA / Hibernate / JPQL" width="50" height="50"/>
-
-  <!-- Nodemailer -->
-  <img src="https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png" alt="Nodemailer" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/imagens/insomnia.svg" alt="Insomnia" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/imagens/tomcat-original.svg" alt="Apache Tomcat" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/imagens/spring.svg" alt="Spring DevTools" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/imagens/lombok-color.svg" alt="Lombok" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/imagens/hibernate-icon.svg" alt="JPA / Hibernate / JPQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/imagens/nodemailer-icon.svg" alt="Nodemailer" width="50" height="50"/>
 </p>
+
 
 
 
