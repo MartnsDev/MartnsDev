@@ -22,16 +22,11 @@
 
 ---
 
-## Tecnologias e linguagens 💻
+## Tecnologias e linguagens/Frameworks e bibliotecas 💻
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,mysql,postgresql)](https://skillicons.dev)
-
-### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=spring,express,tailwind)](https://skillicons.dev)  
-**Outros:** Lombok, JPA, JPQL, Nodemailer
-
-### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=spring,express,tailwind)](https://skillicons.dev)   
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)  
-**Outros:** Insomnia, Apache Tomcat, Spring DevTools
+**Outros:** Insomnia, Apache Tomcat, Spring DevTools, Lombok, JPA, JPQL, Nodemailer
 
 
 
