@@ -1,10 +1,11 @@
 # Eu sou Matheus!
 
 <p align="left">
- Desenvolvedor Backend focado em construir sistemas escaláveis e eficientes com <strong>Java<strong> e <strong>Spring Boot<strong>, além de desenvolver aplicações web completas.
-  <br>
-  <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1kTN8UHQajSkaluWsP-ygOiLeNXNXJnCs/view?usp=sharing" target="_blank" rel="noopener noreferrer">Clique aqui para visualizar</a>
+ Profissional em constante evolução, com foco no desenvolvimento de <strong>soft skills</strong> essenciais para tecnologia, como comunicação clara, resolução de problemas, colaboração em equipe e adaptabilidade.  
+ <br>
+ <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1kTN8UHQajSkaluWsP-ygOiLeNXNXJnCs/view?usp=sharing" target="_blank" rel="noopener noreferrer">Clique aqui para visualizar</a>
 </p>
+
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg">
