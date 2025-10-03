@@ -15,7 +15,7 @@
 
 ---
 
-## Tecnologias e linguagens / Frameworks e bibliotecas 💻
+## Tecnologias e linguagens / Frameworks e bibliotecas
 
 <p align="left">
   <!-- Linguagens e Bancos -->
@@ -43,14 +43,6 @@
 **Outros:** Insomnia, Apache Tomcat, Spring DevTools, Lombok, JPA / Hibernate / JPQL, Nodemailer, Springdoc, JWT, Bean Validation, Exception Handling, Swagger
 
 
-
-
-
-
-
-
-
-
 <!-- Container flexível para ajustar imagem e texto lado a lado no PC e empilhado no celular -->
 
 
@@ -58,7 +50,6 @@
 
 
   <!-- Texto com largura flexível, alinhado à esquerda -->
-
 
 <hr>
 
@@ -86,7 +77,4 @@
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
-
-
 
