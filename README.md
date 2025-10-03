@@ -1,7 +1,7 @@
 # Eu sou Matheus!
 
 <p align="left">
- Profissional em constante evolução, com foco no desenvolvimento de <strong>soft skills</strong> essenciais para tecnologia, como comunicação clara, resolução de problemas, colaboração em equipe e adaptabilidade.  
+ Profissional em constante evolução, com foco no desenvolvimento de <strong>Aplicações</strong> e <strong>soft skills</strong> essenciais para tecnologia, como comunicação clara, resolução de problemas, colaboração em equipe e adaptabilidade.  
  <br>
  <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1kTN8UHQajSkaluWsP-ygOiLeNXNXJnCs/view?usp=sharing" target="_blank" rel="noopener noreferrer">Clique aqui para visualizar</a>
 </p>
