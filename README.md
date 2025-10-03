@@ -5,14 +5,6 @@
   <br>
   <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1kTN8UHQajSkaluWsP-ygOiLeNXNXJnCs/view?usp=sharing" target="_blank" rel="noopener noreferrer">Clique aqui para visualizar</a>
 </p>
-
-
-## Sobre mim
-
-- Estudante e entusiasta de Desenvolvimento de Sistemas  
-- 2x Medalhista de Prata na Olimpíada de Matemática (OMASP) e 1x Medalhista na OBMEP  
-- Aluno Monitor de Português, auxiliando colegas com reforço escolar
-
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg">
