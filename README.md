@@ -31,7 +31,8 @@
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=reactjs" alt="ReactJs" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
+
   <!-- Ferramentas -->
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
