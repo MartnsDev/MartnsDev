@@ -1,4 +1,4 @@
-# Eu sou Matheus!
+# Hi, I'm Matheus!
 
 <p align="left">
  Profissional em constante evolução, com foco no desenvolvimento de <strong>aplicações fullstack</strong> e <strong>soft skills</strong> essenciais para tecnologia, como comunicação clara, resolução de problemas, colaboração em equipe e adaptabilidade.  
