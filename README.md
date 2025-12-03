@@ -67,13 +67,13 @@
   <a href="https://martins-dev.netlify.app" title="Portfólio">
     <img src="https://img.shields.io/badge/-Portfólio-008080?style=flat-square&logo=appveyor&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@martnsprojetos?lang=pt-BR" title="TikTok">
+  <a href="https://www.tiktok.com/@martnsdev?lang=pt-BR" title="TikTok">
     <img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/martns_.dev" title="Instagram">
+  <a href="https://www.instagram.com/martnsx_rb" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://wa.me/5511963822159" title="WhatsApp">
+  <a href="https://wa.me/5511997470879" title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
