@@ -76,5 +76,8 @@
   <a href="https://wa.me/5511997470879" title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white"/>
   </a>
+  <a href="https://www.youtube.com/@MartnsDev" title="YouTube">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
