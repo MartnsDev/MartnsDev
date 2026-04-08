@@ -3,7 +3,7 @@
 <p align="left">
  Profissional em constante evolução, com foco no desenvolvimento de <strong>aplicações fullstack</strong> e <strong>soft skills</strong> essenciais para tecnologia, como comunicação clara, resolução de problemas, colaboração em equipe e adaptabilidade.  
  <br>
- <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1d84YvBiM8DFihLrEtS8Vxk3PFW04UlRV/view?usp=sharing" target="_blank" rel="noopener noreferrer">Clique aqui para visualizar</a>
+ <strong>Currículo:</strong> <a href="https://docs.google.com/document/d/e/2PACX-1vQczNGoXTCp8lcpa46R_J9MGwJpM_446AwLNoOMyV_6rnDEVtLvvcr0qybmXDXuaQ/pub" target="_blank" rel="noopener noreferrer">Clique aqui para visualizar</a>
 </p>
 
 ---
