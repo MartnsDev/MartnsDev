@@ -19,8 +19,8 @@
 
 <p align="left">
   <!-- Linguagens e Bancos -->
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/>
