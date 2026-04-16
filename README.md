@@ -1,10 +1,12 @@
-Hi, I'm Matheus Martins 👋
-Backend Developer · 18 y/o · São Paulo, SP
+Hi, I'm Matheus Martins 👋 <br>
+Backend Developer · 18 y/o · São Paulo, SP <br>
 
-- ☕ Interested in **Java, Spring Boot, Microservices & SaaS**
-- 📦 Currently learning **AWS, advanced Docker and Spring Security**
-- 🤝 Open to collaborate on **backend open source and API systems**
-- 📬 Reach me: mtz.martinss03@gmail.com · [LinkedIn](https://www.linkedin.com/in/matheusmartnsdev/) · [Curriculo](https://img.shields.io/badge/Currículo-ver_PDF-111?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/e/2PACX-1vQczNGoXTCp8lcpa46R_J9MGwJpM_446AwLNoOMyV_6rnDEVtLvvcr0qybmXDXuaQ/pub)
+- ☕ Interested in **Java, Spring Boot, Microservices & SaaS** <br>
+- 📦 Currently learning **AWS, advanced Docker and Spring Security** <br>
+- 🤝 Open to collaborate on **backend open source and API systems** <br>
+- 📬 Reach me: mtz.martinss03@gmail.com <br>
+- · [LinkedIn](https://www.linkedin.com/in/matheusmartnsdev/) <br>
+- · [Curriculo](https://img.shields.io/badge/Currículo-ver_PDF-111?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/e/2PACX-1vQczNGoXTCp8lcpa46R_J9MGwJpM_446AwLNoOMyV_6rnDEVtLvvcr0qybmXDXuaQ/pub)
 
 ---
 
