@@ -1,6 +1,6 @@
-## Hi, I'm Matheus Martins 👋
+Hi, I'm Matheus Martins 👋
 
-**Backend Developer** · 18 y/o · São Paulo, SP
+Backend Developer · 18y · São Paulo, SP
 
 Desenvolvedor backend focado em **Java** e **Spring Boot**.  
 Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estágio.
@@ -20,10 +20,10 @@ Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estág
 
 ###  Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusmartnsdev-111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmartnsdev/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-martins--dev-111?style=flat-square&logo=appveyor&logoColor=white)](https://martins-dev.netlify.app)
-[![Currículo](https://img.shields.io/badge/Currículo-ver_PDF-111?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/e/2PACX-1vQczNGoXTCp8lcpa46R_J9MGwJpM_446AwLNoOMyV_6rnDEVtLvvcr0qybmXDXuaQ/pub)
-[![Gmail](https://img.shields.io/badge/Gmail-contato-111?style=flat-square&logo=gmail&logoColor=white)](mailto:mtz.martinss03@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-chat-111?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511997470879)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusmartnsdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmartnsdev/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-martins--dev-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://martins-dev.netlify.app)
+[![Currículo](https://img.shields.io/badge/Currículo-ver_PDF-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/e/2PACX-1vQczNGoXTCp8lcpa46R_J9MGwJpM_446AwLNoOMyV_6rnDEVtLvvcr0qybmXDXuaQ/pub)
+[![Gmail](https://img.shields.io/badge/Gmail-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtz.martinss03@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511997470879)
 
 <sub>São Paulo · SP · 2026</sub>
