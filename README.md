@@ -16,9 +16,7 @@ Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estág
 - 🏅 2× Silver Medal — OMASP 2025
 - 🚀 SaaS in production → [gestpro.site](https://gestpro.site)
 
----
-
-###  Contact
+**Contact**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusmartnsdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmartnsdev/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-martins--dev-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://martinsdev.blog/)
