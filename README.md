@@ -1,20 +1,14 @@
-<h1>Hi, I'm Matheus Martins 👋</h1>
+Hi, I'm Matheus Martins 👋
 
 **Backend Developer** · 18 y/o · São Paulo, SP
 
 Desenvolvedor backend focado em **Java** e **Spring Boot**.  
 Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estágio.
 
----
-
-### 🔧 Stack
-
 `Java` `Spring Boot 3` `Spring Security` `JWT` `JPA/Hibernate`  
 `MySQL` `PostgreSQL` `Docker` `Next.js` `TypeScript` `Stripe` `AWS ⟶`
 
----
-
-### 📌 About
+### About
 
 - ☕ Interested in **microservices, REST APIs & SaaS products**
 - 📦 Currently learning **AWS, advanced Docker**
@@ -24,7 +18,7 @@ Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estág
 
 ---
 
-### 📬 Contact
+###  Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusmartnsdev-111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmartnsdev/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-martins--dev-111?style=flat-square&logo=appveyor&logoColor=white)](https://martins-dev.netlify.app)
