@@ -21,7 +21,7 @@ Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estág
 ###  Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusmartnsdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmartnsdev/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-martins--dev-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://martins-dev.netlify.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-martins--dev-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://martinsdev.blog/)
 [![Currículo](https://img.shields.io/badge/Currículo-ver_PDF-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/e/2PACX-1vQczNGoXTCp8lcpa46R_J9MGwJpM_446AwLNoOMyV_6rnDEVtLvvcr0qybmXDXuaQ/pub)
 [![Gmail](https://img.shields.io/badge/Gmail-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtz.martinss03@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511932649629)
