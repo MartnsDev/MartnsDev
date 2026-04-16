@@ -1,7 +1,6 @@
-## Matheus Martins — Fullstack Developer
+## Matheus Martins — Backend Developer
 
-Desenvolvo aplicações fullstack com foco em performance, clareza de código e entrega real de valor.
-Trabalho com Java no backend e React/Node.js no frontend, integrando bancos relacionais e APIs REST.
+Desenvolvo aplicações backend robustas com Java e Spring Boot, expondo APIs REST consumidas por frontends em Next.js e Node.js, integradas a bancos relacionais.
 
 ---
 
