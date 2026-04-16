@@ -1,4 +1,4 @@
-Hi, I'm Matheus Martins 👋
+## Hi, I'm Matheus Martins 👋
 
 **Backend Developer** · 18 y/o · São Paulo, SP
 
@@ -13,7 +13,7 @@ Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estág
 - ☕ Interested in **microservices, REST APIs & SaaS products**
 - 📦 Currently learning **AWS, advanced Docker**
 - 🤝 Open to collaborate on **backend & open source projects**
-- 🏅 2× Silver Medal — OMASP 2024
+- 🏅 2× Silver Medal — OMASP 2025
 - 🚀 SaaS in production → [gestpro.site](https://gestpro.site)
 
 ---
