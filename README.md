@@ -8,7 +8,7 @@ Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estág
 `Java` `Spring Boot 3` `Spring Security` `JWT` `JPA/Hibernate`  
 `MySQL` `PostgreSQL` `Docker` `Next.js` `TypeScript` `Stripe` `AWS ⟶`
 
-### About
+**About**
 
 - ☕ Interested in **microservices, REST APIs & SaaS products**
 - 📦 Currently learning **AWS, advanced Docker**
