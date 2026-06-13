@@ -1,20 +1,20 @@
- Hi, I'm Matheus Martins 👋
-**Backend Developer · 19y · Jundiaí, SP**
+ Hi, I'm Matheus Martins 👋<br>
+**Backend Developer · 19y · Jundiaí, SP** <br>
 
-Desenvolvedor backend focado em **Java** e **Spring Boot**.  
-Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estágio.
+Desenvolvedor backend focado em **Java** e **Spring Boot**.<br>  
+Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estágio.<br>
 
-`Java` `Spring Boot 3` `Spring Security` `JWT` `JPA/Hibernate`  
-`MySQL` `PostgreSQL` `Docker` `Next.js` `TypeScript` `Stripe` `AWS ⟶`
+`Java` `Spring Boot 3` `Spring Security` `JWT` `JPA/Hibernate`  <br>
+`MySQL` `PostgreSQL` `Docker` `Next.js` `TypeScript` `Stripe` `AWS ⟶`<br>
 
- About
+ About<br>
 
-☕ Interesse em microsserviços, APIs REST e produtos SaaS
-📦 Atualmente aprendendo AWS e Docker avançado
-🎓 Cursando Análise e Desenvolvimento de Sistemas — Uninter
-🤝 Aberto a colaborar em projetos backend e open source
-🏅 2× Medalha de Prata — OMASP 2025
-- 🚀 SaaS → [gestpro.site](https://gestpro.site)
+☕ Interesse em microsserviços, APIs REST e produtos SaaS<br>
+📦 Atualmente aprendendo AWS e Docker avançado<br>
+🎓 Cursando Análise e Desenvolvimento de Sistemas — Uninter<br>
+🤝 Aberto a colaborar em projetos backend e open source<br>
+🏅 2× Medalha de Prata — OMASP 2025<br>
+- 🚀 SaaS → [gestpro.site](https://gestpro.site)<br>
 
  Contact
 
