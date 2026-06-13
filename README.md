@@ -9,12 +9,12 @@ Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estág
 
  About
 
-- ☕ Interested in **microservices, REST APIs & SaaS products**
-- 📦 Currently learning **AWS, advanced Docker**
-- 🎓 Cursando **ADS — Uninter**
-- 🤝 Open to collaborate on **backend & open source projects**
-- 🏅 2× Silver Medal — OMASP 2025
-- 🚀 SaaS in production → [gestpro.site](https://gestpro.site)
+☕ Interesse em microsserviços, APIs REST e produtos SaaS
+📦 Atualmente aprendendo AWS e Docker avançado
+🎓 Cursando Análise e Desenvolvimento de Sistemas — Uninter
+🤝 Aberto a colaborar em projetos backend e open source
+🏅 2× Medalha de Prata — OMASP 2025
+- 🚀 SaaS → [gestpro.site](https://gestpro.site)
 
  Contact
 
