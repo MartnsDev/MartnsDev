@@ -1,6 +1,5 @@
-**Hi, I'm Matheus Martins** 👋
-
-Backend Developer · 18y · São Paulo, SP
+# Hi, I'm Matheus Martins 👋
+**Backend Developer · 19y · Jundiaí, SP**
 
 Desenvolvedor backend focado em **Java** e **Spring Boot**.  
 Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estágio.
@@ -8,15 +7,20 @@ Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estág
 `Java` `Spring Boot 3` `Spring Security` `JWT` `JPA/Hibernate`  
 `MySQL` `PostgreSQL` `Docker` `Next.js` `TypeScript` `Stripe` `AWS ⟶`
 
-**About**
+---
+
+## About
 
 - ☕ Interested in **microservices, REST APIs & SaaS products**
 - 📦 Currently learning **AWS, advanced Docker**
+- 🎓 Cursando **ADS — Uninter**
 - 🤝 Open to collaborate on **backend & open source projects**
 - 🏅 2× Silver Medal — OMASP 2025
 - 🚀 SaaS in production → [gestpro.site](https://gestpro.site)
 
-**Contact**
+---
+
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusmartnsdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmartnsdev/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-martins--dev-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://martinsdev.blog/)
@@ -24,4 +28,4 @@ Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estág
 [![Gmail](https://img.shields.io/badge/Gmail-contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mtz.martinss03@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511932649629)
 
-<sub>São Paulo · SP · 2026</sub>
+<sub>Jundiaí · SP · 2026</sub>
