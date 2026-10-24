@@ -1,27 +1,28 @@
- Hi, I'm Matheus Martins 👋<br>
-**Backend Developer · 19y · Jundiaí, SP** <br>
+Hi, I'm Matheus Martins 👋<br>
+**Software Developer · 19y · Jundiaí, SP** <br>
 
-Desenvolvedor backend focado em **Java** e **Spring Boot**.<br>  
-Projeto SaaS próprio em produção. Autodidata. Disponível para júnior/estágio.<br>
+Desenvolvedor de software com foco em soluções reais, automação de processos e construção de sistemas escaláveis.<br>
+Experiência prática no desenvolvimento de aplicações completas, integração entre serviços, modelagem de dados e criação de ferramentas que simplificam operações e aumentam a produtividade.<br>
+Criador de um SaaS próprio, da arquitetura ao produto. Aberto a oportunidades como desenvolvedor júnior ou estagiário.<br>
 
-`Java` `Spring Boot 3` `Spring Security` `JWT` `JPA/Hibernate`  <br>
-`MySQL` `PostgreSQL` `Docker` `Next.js` `TypeScript` `Stripe` `AWS ⟶`<br>
+`Automação de Processos` `Desenvolvimento Backend` `APIs e Integrações` `Arquitetura de Software`<br>
+`Sistemas SaaS` `Banco de Dados` `Segurança de Aplicações` `Soluções Empresariais`<br>
 
- About<br>
+About<br>
 
-☕ Interesse em microsserviços, APIs REST e produtos SaaS<br>
-📦 Atualmente aprendendo AWS e Docker avançado<br>
-🎓 Cursando Análise e Desenvolvimento de Sistemas — Uninter<br>
-🤝 Aberto a colaborar em projetos backend e open source<br>
-🏅 2× Medalha de Prata — OMASP 2025<br>
-- 🚀 SaaS → [gestpro.site](https://gestpro.site)<br>
+☕ Gosto de transformar problemas complexos em soluções simples, eficientes e automatizadas.<br>
+📦 Experiência com desenvolvimento de sistemas de gestão, integração de pagamentos, autenticação, controle de estoque e fluxos operacionais.<br>
+🎓 Cursando Análise e Desenvolvimento de Sistemas — Uninter.<br>
+✈️ Estudante de Mecânica de Manutenção Aeronáutica — EDAPA. Atuo profissionalmente no ambiente aeroportuário.<br>
+🏅 2× Medalha de Prata — OMASP 2025.<br>
+🚀 Criador do Gevyro, plataforma SaaS de gestão empresarial → [gevyro.com.br](https://gevyro.com.br)<br>
 
- Contact
+Contact<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusmartnsdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmartnsdev/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-martins--dev-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://martinsdev.blog/)
-[![Currículo](https://img.shields.io/badge/Currículo-ver_PDF-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/e/2PACX-1vQczNGoXTCp8lcpa46R_J9MGwJpM_446AwLNoOMyV_6rnDEVtLvvcr0qybmXDXuaQ/pub)
-[![Gmail](https://img.shields.io/badge/Gmail-contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mtz.martinss03@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511932649629)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmartnsdev/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Meus_Projetos-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://martinsdev.blog/)
+[![Currículo](https://img.shields.io/badge/Currículo-Visualizar_PDF-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/e/2PACX-1vQczNGoXTCp8lcpa46R_J9MGwJpM_446AwLNoOMyV_6rnDEVtLvvcr0qybmXDXuaQ/pub)
+[![Email](https://img.shields.io/badge/Email-Contato_Profissional-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mtz.martinss03@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale_Comigo-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511932649629)
 
-<sub>Jundiaí · SP · 2026</sub>
+<sub>.</sub>
